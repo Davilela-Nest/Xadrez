@@ -1,0 +1,43 @@
+td {
+    border: 1px solid black;
+    width: 3.2rem; 
+    height: 3.2rem; 
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+}
+
+.branco {
+    background-color: #6A2D0F;
+}
+
+.preto {
+    background-color: #EAC15A;
+}
+.tabuleiro{
+    margin: auto;
+    border-collapse: collapse;
+    width: 25.6rem;
+    border-radius: 15px;
+}
+.pontuacao{
+    margin: auto;
+    width: 35%;
+    border: 0px;
+}
+.pontuacao td{
+    border: 0px solid;
+    width: 4rem; 
+    height: 4rem; 
+    padding: 0;
+    text-align: center;
+    font-size: 25px;
+}
+.pontuacao span{
+    color: red
+}
+.titulo{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
